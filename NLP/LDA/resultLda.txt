@@ -1,0 +1,98 @@
+Topic: 0 
+Words: 0.041*"tamil" + 0.036*"nadu" + 0.018*"aiadmk" + 0.013*"pakistan" + 0.012*"chennai" + 0.008*"stalin" + 0.007*"prime" + 0.007*"talk" + 0.007*"palaniswami" + 0.006*"modi"
+
+
+Topic: 1 
+Words: 0.065*"farmer" + 0.026*"price" + 0.022*"agricultur" + 0.018*"crop" + 0.017*"farm" + 0.011*"land" + 0.010*"suppli" + 0.009*"market" + 0.009*"product" + 0.009*"cultiv"
+
+
+Topic: 2 
+Words: 0.033*"seat" + 0.030*"poll" + 0.030*"candid" + 0.028*"constitu" + 0.027*"sabha" + 0.021*"vote" + 0.019*"contest" + 0.018*"voter" + 0.016*"allianc" + 0.011*"elector"
+
+
+Topic: 3 
+Words: 0.030*"vehicl" + 0.021*"transport" + 0.020*"airport" + 0.015*"traffic" + 0.013*"passeng" + 0.012*"bus" + 0.011*"flight" + 0.010*"travel" + 0.009*"driver" + 0.009*"drive"
+
+
+Topic: 4 
+Words: 0.041*"modi" + 0.028*"gandhi" + 0.024*"prime" + 0.020*"maharashtra" + 0.015*"narendra" + 0.014*"defenc" + 0.014*"deal" + 0.014*"rafal" + 0.013*"mumbai" + 0.013*"bengal"
+
+
+Topic: 5 
+Words: 0.015*"victim" + 0.011*"woman" + 0.010*"hospit" + 0.010*"girl" + 0.009*"spot" + 0.009*"death" + 0.008*"murder" + 0.008*"kill" + 0.008*"villag" + 0.008*"identifi"
+
+
+Topic: 6 
+Words: 0.038*"reddi" + 0.023*"telangana" + 0.020*"naidu" + 0.014*"andhra" + 0.011*"promis" + 0.008*"ysrcp" + 0.007*"chandrababu" + 0.006*"jagan" + 0.006*"scheme" + 0.006*"hyderabad"
+
+
+Topic: 7 
+Words: 0.024*"protest" + 0.019*"attack" + 0.016*"kashmir" + 0.014*"kill" + 0.013*"armi" + 0.013*"pakistan" + 0.013*"strike" + 0.011*"terror" + 0.010*"jammu" + 0.009*"personnel"
+
+
+Topic: 8 
+Words: 0.023*"bank" + 0.016*"compani" + 0.013*"scheme" + 0.012*"fund" + 0.009*"propos" + 0.009*"budget" + 0.009*"financi" + 0.008*"loan" + 0.008*"financ" + 0.008*"approv"
+
+
+Topic: 9 
+Words: 0.041*"templ" + 0.032*"karnataka" + 0.018*"sabarimala" + 0.017*"mysuru" + 0.016*"bengaluru" + 0.015*"kumaraswami" + 0.014*"gowda" + 0.011*"women" + 0.011*"devot" + 0.010*"pilgrim"
+
+
+Topic: 10 
+Words: 0.019*"social" + 0.017*"communiti" + 0.016*"media" + 0.012*"women" + 0.011*"assam" + 0.009*"cast" + 0.007*"activist" + 0.007*"citizen" + 0.006*"muslim" + 0.006*"societi"
+
+    
+Topic: 11 
+Words: 0.027*"bench" + 0.024*"petit" + 0.022*"suprem" + 0.018*"hear" + 0.014*"judg" + 0.010*"commiss" + 0.010*"constitut" + 0.010*"petition" + 0.009*"appoint" + 0.009*"advoc"
+
+
+Topic: 12 
+Words: 0.044*"forest" + 0.017*"villag" + 0.016*"anim" + 0.015*"tree" + 0.011*"eleph" + 0.010*"mine" + 0.010*"conserv" + 0.009*"wildlif" + 0.008*"tribal" + 0.008*"lake"
+
+
+Topic: 13 
+Words: 0.025*"complaint" + 0.012*"probe" + 0.010*"crimin" + 0.009*"sexual" + 0.009*"bail" + 0.009*"trial" + 0.009*"complain" + 0.009*"offenc" + 0.009*"convict" + 0.008*"agenc"
+
+
+Topic: 14 
+Words: 0.017*"film" + 0.013*"event" + 0.011*"festiv" + 0.009*"award" + 0.008*"celebr" + 0.007*"actor" + 0.007*"cultur" + 0.006*"world" + 0.006*"particip" + 0.006*"boat"
+
+
+Topic: 15 
+Words: 0.014*"growth" + 0.014*"market" + 0.011*"increas" + 0.011*"invest" + 0.010*"sector" + 0.009*"trade" + 0.009*"busi" + 0.008*"global" + 0.008*"industri" + 0.007*"million"
+
+
+Topic: 16 
+Words: 0.058*"school" + 0.029*"women" + 0.027*"educ" + 0.025*"children" + 0.024*"student" + 0.017*"class" + 0.015*"teacher" + 0.011*"child" + 0.010*"parent" + 0.010*"train"
+
+
+Topic: 17 
+Words: 0.019*"singh" + 0.012*"opposit" + 0.010*"modi" + 0.009*"prime" + 0.008*"statement" + 0.007*"question" + 0.007*"governor" + 0.007*"kejriw" + 0.006*"sabha" + 0.005*"gandhi"
+
+
+Topic: 18 
+Words: 0.021*"railway" + 0.019*"build" + 0.019*"construct" + 0.016*"train" + 0.016*"land" + 0.013*"corpor" + 0.012*"metro" + 0.011*"municip" + 0.010*"line" + 0.008*"park"
+
+
+Topic: 19 
+Words: 0.063*"kerala" + 0.023*"river" + 0.021*"panchayat" + 0.015*"vijayan" + 0.010*"clean" + 0.010*"pampa" + 0.009*"thoma" + 0.009*"inaugur" + 0.009*"mission" + 0.009*"toilet"
+
+
+Topic: 20 
+Words: 0.025*"flood" + 0.024*"worker" + 0.018*"relief" + 0.015*"damag" + 0.014*"affect" + 0.013*"rescu" + 0.012*"rain" + 0.012*"labour" + 0.012*"disast" + 0.010*"kerala"
+
+
+Topic: 21 
+Words: 0.048*"hospit" + 0.034*"health" + 0.028*"medic" + 0.021*"patient" + 0.020*"doctor" + 0.013*"treatment" + 0.011*"diseas" + 0.010*"care" + 0.009*"drug" + 0.007*"death"
+
+
+Topic: 22 
+Words: 0.013*"technolog" + 0.012*"wast" + 0.011*"industri" + 0.010*"pollut" + 0.009*"product" + 0.008*"plant" + 0.007*"qualiti" + 0.007*"compani" + 0.006*"manufactur" + 0.006*"data"
+
+
+Topic: 23 
+Words: 0.066*"student" + 0.049*"univers" + 0.037*"colleg" + 0.022*"institut" + 0.016*"educ" + 0.014*"examin" + 0.011*"scienc" + 0.011*"cours" + 0.010*"campus" + 0.009*"research"
+
+
+Topic: 24 
+Words: 0.013*"crime" + 0.012*"money" + 0.010*"seiz" + 0.009*"cash" + 0.009*"card" + 0.008*"phone" + 0.008*"church" + 0.008*"involv" + 0.007*"raid" + 0.007*"gold"
